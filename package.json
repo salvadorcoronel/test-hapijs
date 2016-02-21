@@ -1,0 +1,29 @@
+{
+  "name": "hapijs-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hapi.js",
+  "dependencies": {
+    "h2o2": "^5.0.0",
+    "handlebars": "^4.0.5",
+    "hapi": "^12.1.0",
+    "inert": "^3.2.0",
+    "path": "^0.12.7",
+    "vision": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvadorcoronel/hapijs-test.git"
+  },
+  "keywords": [
+    "hapijs",
+    "js"
+  ],
+  "author": "Salvador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salvadorcoronel/hapijs-test/issues"
+  },
+  "homepage": "https://github.com/salvadorcoronel/hapijs-test#readme"
+}
