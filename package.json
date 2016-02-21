@@ -1,7 +1,7 @@
 {
   "name": "hapijs-example",
   "version": "0.0.1",
-  "description": "",
+  "description": "HAPIJS - CORE UPGRADE 2016",
   "main": "hapi.js",
   "dependencies": {
     "h2o2": "^5.0.0",
